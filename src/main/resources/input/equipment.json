@@ -1,0 +1,1679 @@
+[ {
+  "1001" : [ "Excavator", "SkidSteer", "Backhoe", "Dragline", "Bulldozer" ]
+}, {
+  "1002" : [ "Excavator", "Trencher", "Scraper", "Grader" ]
+}, {
+  "1003" : [ "DumpTruck", "Backhoe" ]
+}, {
+  "1004" : [ "SkidSteer", "Excavator", "Dragline" ]
+}, {
+  "1005" : [ "DumpTruck" ]
+}, {
+  "1006" : [ "Compactor", "Trencher", "Grader", "Scraper" ]
+}, {
+  "1007" : [ "Compactor", "Excavator", "Backhoe", "Bulldozer", "Trencher" ]
+}, {
+  "1008" : [ "SkidSteer", "Dragline" ]
+}, {
+  "1010" : [ "Backhoe" ]
+}, {
+  "1011" : [ "SkidSteer", "Bulldozer", "Grader" ]
+}, {
+  "1012" : [ "Scraper" ]
+}, {
+  "1013" : [ "DumpTruck", "Compactor", "Dragline", "Grader" ]
+}, {
+  "1014" : [ "DumpTruck", "Backhoe", "Grader", "Crawler" ]
+}, {
+  "1015" : [ "DumpTruck", "Compactor", "Dragline", "Grader", "Crawler" ]
+}, {
+  "1016" : [ "DumpTruck", "Backhoe", "Excavator" ]
+}, {
+  "1017" : [ "Backhoe", "Bulldozer", "Trencher" ]
+}, {
+  "1018" : [ "Backhoe", "Dragline" ]
+}, {
+  "1020" : [ "Compactor", "Backhoe", "SkidSteer" ]
+}, {
+  "1021" : [ "Grader" ]
+}, {
+  "1022" : [ "Backhoe" ]
+}, {
+  "1023" : [ "Excavator" ]
+}, {
+  "1024" : [ "Grader", "Crawler" ]
+}, {
+  "1025" : [ "Compactor", "Bulldozer", "Grader" ]
+}, {
+  "1026" : [ "Excavator", "Trencher", "Crawler" ]
+}, {
+  "1027" : [ "Grader", "Scraper" ]
+}, {
+  "1028" : [ "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1029" : [ "DumpTruck", "Compactor", "Excavator", "SkidSteer", "Dragline" ]
+}, {
+  "1030" : [ "SkidSteer", "Bulldozer" ]
+}, {
+  "1031" : [ "Bulldozer" ]
+}, {
+  "1032" : [ "SkidSteer", "Backhoe", "Dragline", "Crawler" ]
+}, {
+  "1033" : [ "Backhoe", "Compactor" ]
+}, {
+  "1034" : [ "DumpTruck", "Backhoe", "SkidSteer", "Grader" ]
+}, {
+  "1035" : [ "Backhoe", "Crawler" ]
+}, {
+  "1037" : [ "Crawler" ]
+}, {
+  "1039" : [ "Grader" ]
+}, {
+  "1041" : [ "DumpTruck", "Excavator", "Dragline", "Bulldozer" ]
+}, {
+  "1042" : [ "Scraper" ]
+}, {
+  "1043" : [ "DumpTruck", "SkidSteer", "Dragline", "Trencher", "Crawler" ]
+}, {
+  "1044" : [ "Excavator", "Scraper", "Crawler" ]
+}, {
+  "1045" : [ "Crawler" ]
+}, {
+  "1046" : [ "Trencher", "Crawler" ]
+}, {
+  "1047" : [ "Excavator" ]
+}, {
+  "1049" : [ "Excavator", "Crawler" ]
+}, {
+  "1051" : [ "Backhoe", "Compactor", "SkidSteer", "Grader" ]
+}, {
+  "1052" : [ "Trencher", "Bulldozer" ]
+}, {
+  "1054" : [ "DumpTruck", "Compactor" ]
+}, {
+  "1055" : [ "DumpTruck", "Dragline", "Bulldozer", "Scraper" ]
+}, {
+  "1056" : [ "DumpTruck", "SkidSteer", "Trencher", "Grader" ]
+}, {
+  "1057" : [ "DumpTruck", "Dragline", "Bulldozer", "Scraper" ]
+}, {
+  "1058" : [ "DumpTruck", "Compactor" ]
+}, {
+  "1059" : [ "Backhoe", "Crawler" ]
+}, {
+  "1061" : [ "DumpTruck", "Dragline", "Bulldozer", "Trencher", "Grader" ]
+}, {
+  "1062" : [ "DumpTruck", "SkidSteer", "Backhoe", "Dragline", "Trencher", "Scraper" ]
+}, {
+  "1063" : [ "Bulldozer" ]
+}, {
+  "1064" : [ "Excavator", "Bulldozer", "Scraper", "Grader" ]
+}, {
+  "1066" : [ "DumpTruck" ]
+}, {
+  "1067" : [ "SkidSteer", "Excavator", "Dragline", "Crawler" ]
+}, {
+  "1068" : [ "DumpTruck", "Excavator", "Compactor", "Grader" ]
+}, {
+  "1071" : [ "Backhoe", "Grader", "Scraper" ]
+}, {
+  "1072" : [ "Excavator", "Backhoe" ]
+}, {
+  "1073" : [ "Trencher" ]
+}, {
+  "1075" : [ "DumpTruck", "Backhoe", "Trencher" ]
+}, {
+  "1076" : [ "Backhoe", "SkidSteer", "Trencher", "Grader" ]
+}, {
+  "1077" : [ "Backhoe", "Bulldozer", "Trencher" ]
+}, {
+  "1078" : [ "SkidSteer", "Backhoe", "Compactor", "Trencher", "Scraper" ]
+}, {
+  "1079" : [ "DumpTruck", "Dragline" ]
+}, {
+  "1080" : [ "Trencher" ]
+}, {
+  "1081" : [ "Trencher", "Grader" ]
+}, {
+  "1082" : [ "SkidSteer", "Dragline", "Trencher" ]
+}, {
+  "1083" : [ "SkidSteer", "Trencher", "Crawler" ]
+}, {
+  "1085" : [ "DumpTruck", "Compactor", "Bulldozer", "Grader" ]
+}, {
+  "1086" : [ "SkidSteer", "Compactor", "Bulldozer" ]
+}, {
+  "1087" : [ "Dragline", "Scraper" ]
+}, {
+  "1088" : [ "Excavator", "Dragline" ]
+}, {
+  "1089" : [ "Compactor", "Grader", "Scraper", "Crawler" ]
+}, {
+  "1090" : [ "DumpTruck", "Excavator", "Backhoe", "Scraper" ]
+}, {
+  "1091" : [ "Excavator" ]
+}, {
+  "1092" : [ "DumpTruck", "Excavator", "Dragline", "Trencher", "Bulldozer", "Crawler" ]
+}, {
+  "1093" : [ "SkidSteer", "Backhoe", "Compactor", "Bulldozer" ]
+}, {
+  "1094" : [ "Excavator", "Trencher", "Bulldozer" ]
+}, {
+  "1096" : [ "SkidSteer", "Grader", "Crawler" ]
+}, {
+  "1097" : [ "Dragline" ]
+}, {
+  "1099" : [ "SkidSteer", "Compactor", "Dragline", "Scraper" ]
+}, {
+  "1100" : [ "DumpTruck", "Compactor", "SkidSteer", "Excavator", "Trencher", "Crawler" ]
+}, {
+  "1101" : [ "Trencher" ]
+}, {
+  "1102" : [ "Excavator", "Backhoe", "Bulldozer", "Scraper", "Crawler" ]
+}, {
+  "1103" : [ "Compactor" ]
+}, {
+  "1104" : [ "Backhoe", "Compactor", "Bulldozer" ]
+}, {
+  "1105" : [ "Backhoe", "Scraper", "Crawler" ]
+}, {
+  "1106" : [ "Bulldozer", "Grader" ]
+}, {
+  "1107" : [ "SkidSteer", "Excavator", "Trencher", "Scraper", "Grader" ]
+}, {
+  "1108" : [ "Scraper", "Crawler" ]
+}, {
+  "1109" : [ "Dragline", "Trencher", "Scraper" ]
+}, {
+  "1110" : [ "Compactor", "Excavator", "Grader" ]
+}, {
+  "1111" : [ "SkidSteer", "Compactor", "Scraper" ]
+}, {
+  "1112" : [ "DumpTruck", "Backhoe", "Crawler" ]
+}, {
+  "1113" : [ "Backhoe", "Excavator", "Trencher", "Bulldozer", "Grader" ]
+}, {
+  "1115" : [ "Crawler" ]
+}, {
+  "1116" : [ "SkidSteer", "Backhoe", "Compactor", "Trencher" ]
+}, {
+  "1117" : [ "Excavator", "Backhoe", "Dragline", "Bulldozer", "Scraper" ]
+}, {
+  "1119" : [ "Backhoe", "Bulldozer" ]
+}, {
+  "1120" : [ "Crawler" ]
+}, {
+  "1121" : [ "SkidSteer", "Backhoe", "Dragline", "Scraper" ]
+}, {
+  "1122" : [ "DumpTruck", "Compactor", "Bulldozer", "Grader", "Scraper" ]
+}, {
+  "1123" : [ "SkidSteer", "Excavator" ]
+}, {
+  "1124" : [ "Excavator", "Dragline", "Scraper" ]
+}, {
+  "1126" : [ "DumpTruck", "Backhoe", "Grader", "Crawler" ]
+}, {
+  "1127" : [ "SkidSteer", "Excavator", "Dragline", "Grader" ]
+}, {
+  "1128" : [ "Crawler" ]
+}, {
+  "1129" : [ "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1130" : [ "Backhoe", "Scraper", "Crawler" ]
+}, {
+  "1131" : [ "Backhoe", "Compactor", "Trencher", "Bulldozer" ]
+}, {
+  "1132" : [ "Excavator", "Scraper" ]
+}, {
+  "1133" : [ "Backhoe", "Grader" ]
+}, {
+  "1134" : [ "Excavator", "Dragline", "Scraper" ]
+}, {
+  "1135" : [ "Backhoe", "Compactor", "Grader" ]
+}, {
+  "1136" : [ "SkidSteer", "Excavator", "Bulldozer", "Grader", "Scraper" ]
+}, {
+  "1138" : [ "Trencher", "Bulldozer" ]
+}, {
+  "1139" : [ "SkidSteer", "Trencher" ]
+}, {
+  "1140" : [ "DumpTruck", "Backhoe", "Excavator", "Compactor", "Trencher", "Scraper" ]
+}, {
+  "1141" : [ "DumpTruck", "Grader" ]
+}, {
+  "1142" : [ "DumpTruck", "Dragline", "Scraper" ]
+}, {
+  "1144" : [ "Excavator", "Bulldozer", "Trencher", "Grader" ]
+}, {
+  "1145" : [ "DumpTruck", "Excavator", "Dragline", "Scraper" ]
+}, {
+  "1146" : [ "DumpTruck", "Compactor", "Bulldozer", "Crawler" ]
+}, {
+  "1149" : [ "Compactor" ]
+}, {
+  "1150" : [ "DumpTruck", "Backhoe", "SkidSteer", "Bulldozer" ]
+}, {
+  "1151" : [ "DumpTruck" ]
+}, {
+  "1152" : [ "Compactor", "SkidSteer", "Dragline", "Trencher", "Crawler" ]
+}, {
+  "1153" : [ "Crawler" ]
+}, {
+  "1154" : [ "DumpTruck" ]
+}, {
+  "1156" : [ "DumpTruck", "Excavator", "Scraper" ]
+}, {
+  "1157" : [ "Backhoe" ]
+}, {
+  "1158" : [ "DumpTruck", "Compactor", "SkidSteer", "Grader" ]
+}, {
+  "1159" : [ "Excavator", "Backhoe" ]
+}, {
+  "1160" : [ "Compactor", "Bulldozer", "Grader" ]
+}, {
+  "1161" : [ "Trencher" ]
+}, {
+  "1162" : [ "Backhoe" ]
+}, {
+  "1163" : [ "Backhoe", "Compactor", "Dragline", "Scraper", "Crawler" ]
+}, {
+  "1164" : [ "Trencher", "Grader" ]
+}, {
+  "1165" : [ "DumpTruck", "Backhoe" ]
+}, {
+  "1166" : [ "Compactor", "Trencher" ]
+}, {
+  "1168" : [ "Excavator", "Scraper" ]
+}, {
+  "1169" : [ "Backhoe", "Trencher", "Grader" ]
+}, {
+  "1170" : [ "Grader" ]
+}, {
+  "1171" : [ "DumpTruck", "SkidSteer", "Excavator", "Dragline", "Trencher" ]
+}, {
+  "1172" : [ "Backhoe", "Excavator" ]
+}, {
+  "1173" : [ "Compactor", "Crawler" ]
+}, {
+  "1174" : [ "Excavator", "Scraper", "Crawler" ]
+}, {
+  "1175" : [ "SkidSteer" ]
+}, {
+  "1176" : [ "DumpTruck", "Compactor", "Bulldozer", "Scraper" ]
+}, {
+  "1178" : [ "DumpTruck", "Compactor", "Dragline", "Bulldozer", "Crawler" ]
+}, {
+  "1179" : [ "Backhoe", "Scraper", "Crawler" ]
+}, {
+  "1182" : [ "Dragline" ]
+}, {
+  "1183" : [ "DumpTruck", "SkidSteer", "Crawler" ]
+}, {
+  "1184" : [ "Crawler" ]
+}, {
+  "1185" : [ "Backhoe", "Dragline", "Crawler" ]
+}, {
+  "1187" : [ "Grader" ]
+}, {
+  "1188" : [ "DumpTruck", "Backhoe", "Excavator", "Scraper", "Crawler" ]
+}, {
+  "1189" : [ "Grader" ]
+}, {
+  "1190" : [ "Compactor", "Trencher", "Bulldozer", "Scraper", "Crawler" ]
+}, {
+  "1191" : [ "SkidSteer", "Backhoe", "Excavator", "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1192" : [ "Trencher", "Grader" ]
+}, {
+  "1196" : [ "Compactor" ]
+}, {
+  "1197" : [ "Dragline" ]
+}, {
+  "1198" : [ "DumpTruck", "Crawler" ]
+}, {
+  "1199" : [ "Dragline", "Bulldozer", "Trencher", "Grader" ]
+}, {
+  "1201" : [ "Dragline" ]
+}, {
+  "1202" : [ "DumpTruck", "Backhoe", "Excavator", "Trencher", "Grader" ]
+}, {
+  "1204" : [ "DumpTruck", "Dragline", "Trencher" ]
+}, {
+  "1205" : [ "Excavator", "Compactor", "Dragline", "Bulldozer", "Trencher", "Scraper" ]
+}, {
+  "1207" : [ "DumpTruck", "Compactor", "Bulldozer", "Crawler" ]
+}, {
+  "1208" : [ "DumpTruck", "SkidSteer" ]
+}, {
+  "1209" : [ "Backhoe", "Bulldozer", "Crawler" ]
+}, {
+  "1211" : [ "Excavator", "SkidSteer", "Trencher" ]
+}, {
+  "1212" : [ "SkidSteer", "Dragline", "Bulldozer", "Scraper", "Crawler" ]
+}, {
+  "1214" : [ "Excavator", "Dragline", "Bulldozer", "Scraper" ]
+}, {
+  "1215" : [ "DumpTruck", "SkidSteer", "Grader", "Crawler" ]
+}, {
+  "1217" : [ "Bulldozer" ]
+}, {
+  "1218" : [ "Bulldozer", "Scraper" ]
+}, {
+  "1219" : [ "Excavator", "SkidSteer" ]
+}, {
+  "1220" : [ "DumpTruck", "Excavator", "Trencher", "Bulldozer", "Grader" ]
+}, {
+  "1221" : [ "DumpTruck", "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1222" : [ "Grader", "Scraper", "Crawler" ]
+}, {
+  "1224" : [ "SkidSteer", "Compactor", "Grader" ]
+}, {
+  "1226" : [ "SkidSteer", "Dragline" ]
+}, {
+  "1227" : [ "DumpTruck", "Backhoe", "Dragline" ]
+}, {
+  "1228" : [ "Scraper" ]
+}, {
+  "1231" : [ "Backhoe", "Dragline", "Grader" ]
+}, {
+  "1232" : [ "DumpTruck", "Excavator", "SkidSteer", "Backhoe", "Scraper" ]
+}, {
+  "1233" : [ "SkidSteer", "Grader" ]
+}, {
+  "1234" : [ "Excavator", "Compactor", "Grader", "Crawler" ]
+}, {
+  "1235" : [ "DumpTruck", "Excavator" ]
+}, {
+  "1236" : [ "Backhoe", "Dragline", "Bulldozer", "Grader" ]
+}, {
+  "1237" : [ "SkidSteer" ]
+}, {
+  "1238" : [ "SkidSteer", "Grader", "Scraper" ]
+}, {
+  "1239" : [ "Grader" ]
+}, {
+  "1240" : [ "DumpTruck", "Backhoe", "Dragline", "Grader" ]
+}, {
+  "1242" : [ "DumpTruck", "Excavator", "Compactor", "Dragline", "Bulldozer", "Scraper" ]
+}, {
+  "1243" : [ "Compactor", "Trencher", "Grader", "Crawler" ]
+}, {
+  "1244" : [ "Backhoe", "SkidSteer", "Excavator", "Dragline", "Grader" ]
+}, {
+  "1245" : [ "Dragline" ]
+}, {
+  "1246" : [ "Excavator", "Dragline", "Trencher", "Bulldozer", "Grader" ]
+}, {
+  "1247" : [ "Compactor", "Dragline", "Trencher" ]
+}, {
+  "1248" : [ "DumpTruck", "SkidSteer", "Dragline", "Crawler" ]
+}, {
+  "1249" : [ "Dragline" ]
+}, {
+  "1251" : [ "Backhoe", "Dragline", "Bulldozer", "Grader" ]
+}, {
+  "1252" : [ "Compactor", "Trencher", "Bulldozer" ]
+}, {
+  "1253" : [ "SkidSteer", "Grader" ]
+}, {
+  "1254" : [ "Dragline", "Scraper" ]
+}, {
+  "1255" : [ "DumpTruck", "Excavator", "Dragline", "Grader", "Scraper" ]
+}, {
+  "1256" : [ "DumpTruck", "Backhoe", "Compactor", "SkidSteer", "Dragline", "Crawler" ]
+}, {
+  "1258" : [ "Compactor" ]
+}, {
+  "1259" : [ "Compactor", "SkidSteer", "Trencher", "Grader" ]
+}, {
+  "1261" : [ "Compactor", "SkidSteer" ]
+}, {
+  "1262" : [ "DumpTruck", "SkidSteer", "Trencher" ]
+}, {
+  "1263" : [ "Compactor", "Trencher", "Grader" ]
+}, {
+  "1264" : [ "DumpTruck", "Backhoe", "SkidSteer", "Bulldozer", "Grader" ]
+}, {
+  "1265" : [ "Compactor", "Trencher", "Grader" ]
+}, {
+  "1266" : [ "DumpTruck" ]
+}, {
+  "1267" : [ "Trencher" ]
+}, {
+  "1268" : [ "Compactor", "Trencher" ]
+}, {
+  "1270" : [ "SkidSteer", "Excavator", "Trencher", "Grader", "Crawler" ]
+}, {
+  "1271" : [ "DumpTruck", "Trencher" ]
+}, {
+  "1272" : [ "DumpTruck", "Excavator", "Crawler" ]
+}, {
+  "1273" : [ "Compactor", "Backhoe", "Trencher", "Scraper" ]
+}, {
+  "1275" : [ "Dragline", "Scraper" ]
+}, {
+  "1276" : [ "Compactor", "Excavator", "Backhoe" ]
+}, {
+  "1277" : [ "Compactor", "Backhoe", "Trencher", "Bulldozer" ]
+}, {
+  "1278" : [ "Excavator", "Crawler" ]
+}, {
+  "1280" : [ "Compactor" ]
+}, {
+  "1282" : [ "SkidSteer", "Excavator", "Backhoe", "Grader" ]
+}, {
+  "1283" : [ "DumpTruck", "SkidSteer", "Scraper", "Crawler" ]
+}, {
+  "1284" : [ "DumpTruck", "SkidSteer", "Crawler" ]
+}, {
+  "1285" : [ "Grader", "Crawler" ]
+}, {
+  "1286" : [ "Dragline", "Crawler" ]
+}, {
+  "1287" : [ "DumpTruck", "Excavator", "SkidSteer", "Trencher" ]
+}, {
+  "1288" : [ "SkidSteer", "Dragline", "Trencher", "Grader" ]
+}, {
+  "1289" : [ "DumpTruck", "Excavator", "Backhoe", "Compactor", "Crawler" ]
+}, {
+  "1291" : [ "Compactor", "SkidSteer", "Excavator", "Dragline", "Grader", "Crawler" ]
+}, {
+  "1292" : [ "DumpTruck", "Dragline" ]
+}, {
+  "1294" : [ "Backhoe", "Bulldozer", "Grader" ]
+}, {
+  "1295" : [ "Backhoe", "Dragline", "Bulldozer", "Crawler" ]
+}, {
+  "1296" : [ "DumpTruck", "SkidSteer", "Dragline", "Scraper" ]
+}, {
+  "1297" : [ "Trencher" ]
+}, {
+  "1298" : [ "DumpTruck", "Compactor", "Dragline", "Bulldozer" ]
+}, {
+  "1299" : [ "Compactor", "Backhoe", "Trencher", "Bulldozer", "Scraper" ]
+}, {
+  "1300" : [ "DumpTruck", "Excavator", "SkidSteer", "Dragline", "Trencher", "Scraper" ]
+}, {
+  "1301" : [ "SkidSteer", "Crawler" ]
+}, {
+  "1302" : [ "Compactor", "Dragline", "Trencher", "Crawler" ]
+}, {
+  "1305" : [ "SkidSteer", "Compactor", "Bulldozer", "Scraper", "Grader" ]
+}, {
+  "1306" : [ "Scraper" ]
+}, {
+  "1307" : [ "Compactor", "Dragline", "Crawler" ]
+}, {
+  "1308" : [ "Excavator" ]
+}, {
+  "1309" : [ "DumpTruck", "Compactor", "SkidSteer", "Dragline", "Trencher", "Crawler" ]
+}, {
+  "1310" : [ "DumpTruck", "SkidSteer", "Compactor" ]
+}, {
+  "1311" : [ "Dragline" ]
+}, {
+  "1312" : [ "Excavator", "Trencher" ]
+}, {
+  "1313" : [ "Backhoe", "Bulldozer" ]
+}, {
+  "1315" : [ "DumpTruck", "Excavator", "Trencher", "Scraper" ]
+}, {
+  "1316" : [ "Trencher" ]
+}, {
+  "1317" : [ "DumpTruck", "Backhoe", "Trencher" ]
+}, {
+  "1318" : [ "DumpTruck", "Dragline", "Grader", "Crawler" ]
+}, {
+  "1319" : [ "Excavator", "Compactor", "SkidSteer", "Grader", "Crawler" ]
+}, {
+  "1320" : [ "Scraper" ]
+}, {
+  "1321" : [ "SkidSteer", "Grader", "Scraper", "Crawler" ]
+}, {
+  "1322" : [ "DumpTruck", "Compactor", "Backhoe", "SkidSteer", "Bulldozer" ]
+}, {
+  "1323" : [ "Compactor" ]
+}, {
+  "1324" : [ "Backhoe", "Crawler" ]
+}, {
+  "1325" : [ "Bulldozer", "Grader" ]
+}, {
+  "1327" : [ "Excavator", "SkidSteer", "Backhoe", "Dragline", "Scraper" ]
+}, {
+  "1328" : [ "Backhoe", "Compactor", "Excavator", "Grader", "Crawler" ]
+}, {
+  "1330" : [ "DumpTruck", "Compactor", "SkidSteer", "Trencher", "Scraper" ]
+}, {
+  "1331" : [ "Scraper" ]
+}, {
+  "1332" : [ "DumpTruck", "Excavator", "Backhoe", "SkidSteer", "Bulldozer", "Grader" ]
+}, {
+  "1333" : [ "DumpTruck", "SkidSteer", "Compactor", "Trencher" ]
+}, {
+  "1334" : [ "SkidSteer", "Excavator", "Scraper", "Crawler" ]
+}, {
+  "1335" : [ "Excavator", "Dragline", "Grader", "Scraper", "Crawler" ]
+}, {
+  "1336" : [ "Compactor", "Scraper" ]
+}, {
+  "1338" : [ "DumpTruck", "Excavator", "SkidSteer", "Trencher", "Grader" ]
+}, {
+  "1339" : [ "DumpTruck", "Backhoe", "Bulldozer" ]
+}, {
+  "1341" : [ "DumpTruck", "SkidSteer", "Dragline", "Bulldozer" ]
+}, {
+  "1342" : [ "DumpTruck", "Bulldozer", "Trencher", "Scraper" ]
+}, {
+  "1343" : [ "DumpTruck", "Compactor", "Trencher", "Scraper", "Crawler" ]
+}, {
+  "1344" : [ "DumpTruck", "Backhoe", "Compactor", "Dragline" ]
+}, {
+  "1345" : [ "Compactor", "Trencher", "Crawler" ]
+}, {
+  "1346" : [ "Backhoe", "Dragline", "Bulldozer" ]
+}, {
+  "1347" : [ "SkidSteer", "Backhoe", "Grader" ]
+}, {
+  "1348" : [ "Bulldozer", "Trencher", "Grader", "Crawler" ]
+}, {
+  "1349" : [ "Compactor", "Backhoe", "Trencher" ]
+}, {
+  "1350" : [ "SkidSteer", "Trencher", "Grader", "Crawler" ]
+}, {
+  "1351" : [ "DumpTruck" ]
+}, {
+  "1353" : [ "Dragline", "Trencher", "Grader", "Crawler" ]
+}, {
+  "1354" : [ "Compactor", "Bulldozer", "Crawler" ]
+}, {
+  "1355" : [ "Bulldozer", "Scraper" ]
+}, {
+  "1356" : [ "Backhoe", "Excavator", "Dragline" ]
+}, {
+  "1357" : [ "Compactor", "Excavator" ]
+}, {
+  "1359" : [ "Excavator", "Dragline", "Trencher" ]
+}, {
+  "1360" : [ "SkidSteer", "Backhoe", "Bulldozer", "Grader", "Scraper" ]
+}, {
+  "1361" : [ "Excavator" ]
+}, {
+  "1362" : [ "Dragline", "Trencher", "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1363" : [ "Compactor", "Excavator", "Dragline", "Bulldozer", "Scraper" ]
+}, {
+  "1364" : [ "Trencher", "Bulldozer" ]
+}, {
+  "1366" : [ "Excavator", "SkidSteer", "Backhoe", "Trencher", "Bulldozer" ]
+}, {
+  "1367" : [ "Scraper" ]
+}, {
+  "1368" : [ "Backhoe", "Trencher", "Bulldozer" ]
+}, {
+  "1369" : [ "Dragline", "Grader" ]
+}, {
+  "1372" : [ "DumpTruck", "Dragline" ]
+}, {
+  "1373" : [ "Backhoe" ]
+}, {
+  "1374" : [ "Excavator", "Dragline", "Trencher", "Bulldozer", "Scraper" ]
+}, {
+  "1376" : [ "DumpTruck", "SkidSteer", "Excavator", "Bulldozer" ]
+}, {
+  "1378" : [ "Backhoe", "Dragline", "Trencher", "Grader", "Scraper" ]
+}, {
+  "1380" : [ "Excavator" ]
+}, {
+  "1381" : [ "Bulldozer", "Grader", "Scraper" ]
+}, {
+  "1382" : [ "DumpTruck", "Grader", "Scraper" ]
+}, {
+  "1383" : [ "Backhoe" ]
+}, {
+  "1384" : [ "SkidSteer", "Backhoe", "Dragline", "Grader" ]
+}, {
+  "1385" : [ "Compactor", "Dragline", "Trencher", "Scraper", "Grader" ]
+}, {
+  "1386" : [ "DumpTruck", "Excavator", "Dragline", "Bulldozer", "Scraper" ]
+}, {
+  "1387" : [ "DumpTruck", "Excavator", "Scraper", "Grader", "Crawler" ]
+}, {
+  "1388" : [ "Compactor", "SkidSteer", "Bulldozer" ]
+}, {
+  "1390" : [ "Backhoe", "SkidSteer", "Dragline", "Trencher" ]
+}, {
+  "1391" : [ "DumpTruck", "Compactor", "Backhoe", "Grader", "Crawler" ]
+}, {
+  "1392" : [ "SkidSteer", "Dragline", "Grader" ]
+}, {
+  "1393" : [ "DumpTruck", "Compactor", "SkidSteer", "Dragline", "Crawler" ]
+}, {
+  "1395" : [ "Excavator", "Dragline", "Trencher", "Bulldozer", "Crawler" ]
+}, {
+  "1396" : [ "SkidSteer" ]
+}, {
+  "1397" : [ "Excavator", "Bulldozer", "Grader", "Scraper" ]
+}, {
+  "1398" : [ "DumpTruck", "Backhoe", "Excavator", "Crawler" ]
+}, {
+  "1399" : [ "Backhoe", "SkidSteer" ]
+}, {
+  "1400" : [ "DumpTruck" ]
+}, {
+  "1401" : [ "DumpTruck", "SkidSteer", "Trencher", "Grader", "Scraper" ]
+}, {
+  "1402" : [ "SkidSteer" ]
+}, {
+  "1403" : [ "Compactor", "Bulldozer", "Scraper" ]
+}, {
+  "1404" : [ "Backhoe", "Bulldozer", "Trencher", "Scraper" ]
+}, {
+  "1405" : [ "Backhoe", "Excavator", "Trencher", "Bulldozer" ]
+}, {
+  "1406" : [ "Backhoe", "Compactor", "Trencher", "Grader" ]
+}, {
+  "1407" : [ "Excavator", "Compactor", "SkidSteer", "Bulldozer" ]
+}, {
+  "1408" : [ "Trencher", "Grader" ]
+}, {
+  "1409" : [ "Compactor" ]
+}, {
+  "1410" : [ "Dragline", "Grader" ]
+}, {
+  "1411" : [ "Backhoe", "Bulldozer", "Grader", "Scraper", "Crawler" ]
+}, {
+  "1412" : [ "Bulldozer" ]
+}, {
+  "1413" : [ "DumpTruck", "SkidSteer" ]
+}, {
+  "1414" : [ "SkidSteer", "Trencher", "Grader" ]
+}, {
+  "1415" : [ "Dragline", "Scraper" ]
+}, {
+  "1416" : [ "Bulldozer" ]
+}, {
+  "1417" : [ "DumpTruck", "SkidSteer", "Trencher", "Scraper" ]
+}, {
+  "1418" : [ "DumpTruck", "Excavator", "Trencher", "Grader" ]
+}, {
+  "1419" : [ "Bulldozer", "Scraper", "Crawler" ]
+}, {
+  "1420" : [ "DumpTruck", "Compactor", "SkidSteer", "Bulldozer", "Scraper" ]
+}, {
+  "1421" : [ "SkidSteer" ]
+}, {
+  "1422" : [ "DumpTruck", "Excavator", "Trencher", "Crawler" ]
+}, {
+  "1423" : [ "DumpTruck", "Backhoe", "SkidSteer", "Dragline", "Crawler" ]
+}, {
+  "1424" : [ "DumpTruck", "Trencher", "Bulldozer", "Crawler" ]
+}, {
+  "1425" : [ "DumpTruck", "SkidSteer", "Bulldozer", "Grader" ]
+}, {
+  "1426" : [ "DumpTruck", "Compactor", "Trencher", "Crawler" ]
+}, {
+  "1428" : [ "Backhoe", "Compactor", "SkidSteer", "Dragline", "Crawler" ]
+}, {
+  "1429" : [ "SkidSteer", "Bulldozer", "Grader" ]
+}, {
+  "1430" : [ "SkidSteer" ]
+}, {
+  "1431" : [ "Backhoe", "Excavator" ]
+}, {
+  "1432" : [ "Dragline", "Bulldozer", "Trencher" ]
+}, {
+  "1433" : [ "DumpTruck", "Dragline", "Bulldozer", "Grader" ]
+}, {
+  "1435" : [ "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1437" : [ "Backhoe" ]
+}, {
+  "1438" : [ "Dragline", "Trencher" ]
+}, {
+  "1439" : [ "Excavator", "Compactor", "Backhoe", "SkidSteer", "Scraper" ]
+}, {
+  "1440" : [ "Trencher", "Grader" ]
+}, {
+  "1441" : [ "DumpTruck", "Backhoe", "Bulldozer", "Grader" ]
+}, {
+  "1442" : [ "SkidSteer", "Compactor", "Trencher" ]
+}, {
+  "1443" : [ "DumpTruck", "Scraper" ]
+}, {
+  "1444" : [ "Backhoe", "SkidSteer", "Bulldozer", "Trencher", "Crawler" ]
+}, {
+  "1445" : [ "Dragline", "Crawler" ]
+}, {
+  "1446" : [ "SkidSteer", "Bulldozer", "Trencher" ]
+}, {
+  "1447" : [ "Backhoe", "SkidSteer", "Trencher" ]
+}, {
+  "1448" : [ "Excavator" ]
+}, {
+  "1449" : [ "DumpTruck", "Excavator", "Compactor", "Crawler" ]
+}, {
+  "1450" : [ "Backhoe", "Excavator", "Crawler" ]
+}, {
+  "1451" : [ "Crawler" ]
+}, {
+  "1453" : [ "Excavator", "Trencher", "Crawler" ]
+}, {
+  "1454" : [ "SkidSteer" ]
+}, {
+  "1455" : [ "Compactor", "Dragline", "Grader", "Crawler" ]
+}, {
+  "1456" : [ "Backhoe", "Trencher", "Crawler" ]
+}, {
+  "1457" : [ "DumpTruck" ]
+}, {
+  "1459" : [ "Excavator" ]
+}, {
+  "1460" : [ "Bulldozer", "Scraper" ]
+}, {
+  "1461" : [ "SkidSteer", "Bulldozer", "Crawler" ]
+}, {
+  "1462" : [ "DumpTruck", "Backhoe", "Dragline", "Grader", "Crawler" ]
+}, {
+  "1463" : [ "DumpTruck", "Compactor", "Dragline", "Bulldozer" ]
+}, {
+  "1464" : [ "Excavator" ]
+}, {
+  "1465" : [ "Trencher" ]
+}, {
+  "1466" : [ "Backhoe", "SkidSteer" ]
+}, {
+  "1468" : [ "Backhoe", "SkidSteer", "Dragline", "Bulldozer", "Grader" ]
+}, {
+  "1469" : [ "Excavator", "SkidSteer", "Trencher", "Grader", "Crawler" ]
+}, {
+  "1470" : [ "Bulldozer", "Grader" ]
+}, {
+  "1471" : [ "DumpTruck", "SkidSteer", "Compactor", "Grader" ]
+}, {
+  "1472" : [ "Compactor" ]
+}, {
+  "1474" : [ "Bulldozer", "Grader" ]
+}, {
+  "1475" : [ "DumpTruck", "Bulldozer", "Crawler" ]
+}, {
+  "1476" : [ "Backhoe", "Bulldozer", "Trencher" ]
+}, {
+  "1477" : [ "Dragline", "Trencher", "Bulldozer", "Scraper" ]
+}, {
+  "1478" : [ "Backhoe", "Bulldozer", "Scraper", "Crawler" ]
+}, {
+  "1479" : [ "DumpTruck", "Backhoe", "Excavator", "Crawler" ]
+}, {
+  "1480" : [ "DumpTruck", "Bulldozer", "Crawler" ]
+}, {
+  "1481" : [ "SkidSteer", "Compactor", "Excavator", "Grader" ]
+}, {
+  "1482" : [ "Excavator", "SkidSteer" ]
+}, {
+  "1483" : [ "SkidSteer", "Dragline" ]
+}, {
+  "1484" : [ "DumpTruck", "Bulldozer", "Crawler" ]
+}, {
+  "1485" : [ "SkidSteer", "Compactor", "Grader", "Crawler" ]
+}, {
+  "1486" : [ "Excavator", "Grader", "Crawler" ]
+}, {
+  "1487" : [ "Compactor", "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1488" : [ "Bulldozer" ]
+}, {
+  "1490" : [ "Crawler" ]
+}, {
+  "1492" : [ "Compactor", "Excavator", "Dragline", "Grader" ]
+}, {
+  "1493" : [ "Compactor", "Dragline", "Scraper", "Crawler" ]
+}, {
+  "1494" : [ "Compactor" ]
+}, {
+  "1495" : [ "Excavator", "Trencher", "Grader" ]
+}, {
+  "1496" : [ "Backhoe", "Excavator", "Grader", "Crawler" ]
+}, {
+  "1497" : [ "Dragline", "Trencher" ]
+}, {
+  "1498" : [ "SkidSteer" ]
+}, {
+  "1500" : [ "SkidSteer", "Excavator", "Scraper", "Grader", "Crawler" ]
+}, {
+  "1501" : [ "Excavator", "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1504" : [ "Excavator", "Compactor", "Backhoe", "Dragline", "Trencher", "Grader" ]
+}, {
+  "1505" : [ "DumpTruck", "Backhoe", "SkidSteer", "Excavator", "Grader", "Crawler" ]
+}, {
+  "1506" : [ "Backhoe", "Trencher" ]
+}, {
+  "1507" : [ "SkidSteer", "Trencher", "Scraper", "Grader" ]
+}, {
+  "1508" : [ "Backhoe", "Scraper" ]
+}, {
+  "1509" : [ "DumpTruck", "Bulldozer", "Grader" ]
+}, {
+  "1511" : [ "SkidSteer", "Compactor", "Backhoe", "Trencher", "Bulldozer", "Grader" ]
+}, {
+  "1513" : [ "Excavator", "Bulldozer", "Crawler" ]
+}, {
+  "1514" : [ "DumpTruck", "Bulldozer" ]
+}, {
+  "1517" : [ "Excavator", "Crawler" ]
+}, {
+  "1519" : [ "SkidSteer" ]
+}, {
+  "1520" : [ "Backhoe", "Dragline", "Trencher", "Bulldozer", "Grader", "Scraper" ]
+}, {
+  "1521" : [ "DumpTruck", "Backhoe", "Compactor", "Dragline", "Bulldozer", "Scraper" ]
+}, {
+  "1525" : [ "Backhoe", "Trencher" ]
+}, {
+  "1526" : [ "Excavator", "Trencher", "Bulldozer", "Scraper", "Crawler" ]
+}, {
+  "1527" : [ "DumpTruck", "Dragline", "Bulldozer", "Crawler" ]
+}, {
+  "1528" : [ "DumpTruck", "Backhoe", "Bulldozer", "Scraper" ]
+}, {
+  "1529" : [ "DumpTruck", "Excavator", "Dragline", "Scraper", "Grader" ]
+}, {
+  "1530" : [ "DumpTruck", "Backhoe", "Bulldozer", "Scraper", "Crawler" ]
+}, {
+  "1531" : [ "DumpTruck", "Backhoe", "Bulldozer" ]
+}, {
+  "1532" : [ "Bulldozer", "Trencher", "Scraper", "Grader" ]
+}, {
+  "1533" : [ "Compactor", "Dragline", "Trencher", "Grader" ]
+}, {
+  "1535" : [ "Excavator", "Dragline", "Bulldozer" ]
+}, {
+  "1536" : [ "SkidSteer", "Excavator", "Trencher", "Scraper", "Crawler" ]
+}, {
+  "1539" : [ "DumpTruck", "Backhoe", "Scraper" ]
+}, {
+  "1540" : [ "SkidSteer", "Trencher" ]
+}, {
+  "1541" : [ "Dragline", "Trencher", "Scraper", "Grader" ]
+}, {
+  "1543" : [ "Backhoe", "Dragline", "Grader", "Scraper" ]
+}, {
+  "1545" : [ "DumpTruck", "Compactor", "Trencher", "Scraper" ]
+}, {
+  "1546" : [ "DumpTruck" ]
+}, {
+  "1547" : [ "SkidSteer", "Scraper" ]
+}, {
+  "1548" : [ "SkidSteer", "Compactor", "Dragline", "Trencher", "Scraper" ]
+}, {
+  "1549" : [ "Compactor", "Backhoe", "SkidSteer", "Bulldozer", "Scraper" ]
+}, {
+  "1550" : [ "DumpTruck", "Excavator", "SkidSteer", "Grader" ]
+}, {
+  "1551" : [ "DumpTruck", "Excavator", "Compactor", "SkidSteer", "Grader", "Scraper" ]
+}, {
+  "1552" : [ "Excavator", "Compactor" ]
+}, {
+  "1554" : [ "SkidSteer", "Bulldozer", "Crawler" ]
+}, {
+  "1555" : [ "DumpTruck", "Excavator", "Dragline", "Scraper", "Crawler" ]
+}, {
+  "1556" : [ "DumpTruck", "Scraper", "Grader" ]
+}, {
+  "1557" : [ "Excavator", "Crawler" ]
+}, {
+  "1558" : [ "Backhoe", "SkidSteer", "Bulldozer", "Scraper" ]
+}, {
+  "1561" : [ "Excavator", "Dragline", "Grader" ]
+}, {
+  "1562" : [ "Grader" ]
+}, {
+  "1564" : [ "DumpTruck", "SkidSteer", "Dragline", "Grader" ]
+}, {
+  "1565" : [ "Compactor", "SkidSteer", "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1566" : [ "Compactor", "Grader" ]
+}, {
+  "1567" : [ "DumpTruck", "SkidSteer", "Compactor", "Grader" ]
+}, {
+  "1568" : [ "DumpTruck", "Trencher", "Grader" ]
+}, {
+  "1569" : [ "Excavator", "Trencher" ]
+}, {
+  "1570" : [ "Excavator", "Backhoe" ]
+}, {
+  "1572" : [ "DumpTruck", "Backhoe", "Compactor", "SkidSteer" ]
+}, {
+  "1573" : [ "Excavator", "Bulldozer" ]
+}, {
+  "1574" : [ "Compactor", "Backhoe", "Scraper", "Crawler" ]
+}, {
+  "1575" : [ "Scraper" ]
+}, {
+  "1576" : [ "SkidSteer", "Compactor", "Excavator", "Bulldozer", "Scraper" ]
+}, {
+  "1577" : [ "Excavator", "Backhoe", "Bulldozer", "Trencher", "Scraper" ]
+}, {
+  "1578" : [ "Compactor", "Dragline", "Grader", "Crawler" ]
+}, {
+  "1579" : [ "Excavator", "SkidSteer", "Dragline", "Bulldozer", "Grader" ]
+}, {
+  "1581" : [ "DumpTruck", "Backhoe", "SkidSteer", "Dragline", "Grader" ]
+}, {
+  "1583" : [ "DumpTruck" ]
+}, {
+  "1585" : [ "SkidSteer", "Dragline", "Trencher", "Bulldozer", "Grader", "Scraper" ]
+}, {
+  "1586" : [ "Trencher" ]
+}, {
+  "1588" : [ "Dragline", "Trencher" ]
+}, {
+  "1589" : [ "Backhoe", "Excavator" ]
+}, {
+  "1590" : [ "Compactor", "Dragline", "Bulldozer" ]
+}, {
+  "1591" : [ "Backhoe", "Bulldozer" ]
+}, {
+  "1592" : [ "Compactor", "SkidSteer", "Dragline", "Trencher", "Grader" ]
+}, {
+  "1593" : [ "Excavator" ]
+}, {
+  "1594" : [ "DumpTruck", "Excavator", "Compactor", "Grader", "Scraper" ]
+}, {
+  "1595" : [ "Backhoe", "Excavator", "Scraper" ]
+}, {
+  "1596" : [ "Grader", "Crawler" ]
+}, {
+  "1597" : [ "SkidSteer", "Compactor", "Dragline", "Bulldozer" ]
+}, {
+  "1598" : [ "Dragline" ]
+}, {
+  "1599" : [ "SkidSteer", "Trencher", "Crawler" ]
+}, {
+  "1600" : [ "Grader" ]
+}, {
+  "1601" : [ "DumpTruck", "Excavator", "Trencher", "Scraper" ]
+}, {
+  "1602" : [ "Bulldozer" ]
+}, {
+  "1604" : [ "SkidSteer", "Compactor", "Dragline", "Grader" ]
+}, {
+  "1605" : [ "Compactor", "Excavator", "SkidSteer", "Crawler" ]
+}, {
+  "1606" : [ "Excavator", "Backhoe", "Trencher", "Crawler" ]
+}, {
+  "1607" : [ "SkidSteer", "Bulldozer" ]
+}, {
+  "1608" : [ "SkidSteer" ]
+}, {
+  "1609" : [ "Excavator", "Scraper" ]
+}, {
+  "1610" : [ "Backhoe", "SkidSteer", "Grader" ]
+}, {
+  "1611" : [ "DumpTruck" ]
+}, {
+  "1612" : [ "Backhoe", "Dragline" ]
+}, {
+  "1614" : [ "Backhoe", "Grader" ]
+}, {
+  "1615" : [ "SkidSteer" ]
+}, {
+  "1616" : [ "Dragline", "Trencher", "Crawler" ]
+}, {
+  "1617" : [ "DumpTruck", "Backhoe", "Compactor", "Trencher", "Bulldozer" ]
+}, {
+  "1618" : [ "Compactor", "Crawler" ]
+}, {
+  "1620" : [ "Compactor", "Trencher", "Scraper" ]
+}, {
+  "1622" : [ "SkidSteer" ]
+}, {
+  "1623" : [ "Compactor", "Backhoe", "Crawler" ]
+}, {
+  "1624" : [ "DumpTruck", "Excavator", "Grader", "Scraper" ]
+}, {
+  "1625" : [ "SkidSteer", "Dragline", "Trencher", "Bulldozer", "Crawler" ]
+}, {
+  "1626" : [ "Dragline", "Grader", "Scraper" ]
+}, {
+  "1628" : [ "Excavator", "Dragline", "Crawler" ]
+}, {
+  "1629" : [ "Compactor", "Dragline", "Grader", "Crawler" ]
+}, {
+  "1630" : [ "SkidSteer", "Trencher", "Scraper", "Grader" ]
+}, {
+  "1631" : [ "Excavator", "Backhoe", "SkidSteer", "Compactor", "Scraper", "Crawler" ]
+}, {
+  "1632" : [ "Backhoe", "Dragline", "Trencher" ]
+}, {
+  "1633" : [ "SkidSteer", "Compactor", "Bulldozer", "Grader" ]
+}, {
+  "1634" : [ "Backhoe", "Dragline" ]
+}, {
+  "1636" : [ "DumpTruck", "Compactor", "Grader" ]
+}, {
+  "1637" : [ "Backhoe" ]
+}, {
+  "1638" : [ "Excavator", "Backhoe" ]
+}, {
+  "1640" : [ "Bulldozer", "Grader" ]
+}, {
+  "1642" : [ "Compactor", "SkidSteer", "Bulldozer", "Trencher", "Scraper", "Crawler" ]
+}, {
+  "1643" : [ "DumpTruck", "Excavator", "Compactor", "Backhoe", "Bulldozer" ]
+}, {
+  "1644" : [ "DumpTruck", "SkidSteer", "Bulldozer" ]
+}, {
+  "1645" : [ "Trencher", "Grader" ]
+}, {
+  "1646" : [ "Excavator" ]
+}, {
+  "1647" : [ "SkidSteer", "Compactor", "Trencher", "Crawler" ]
+}, {
+  "1649" : [ "SkidSteer", "Compactor", "Scraper", "Grader", "Crawler" ]
+}, {
+  "1650" : [ "DumpTruck", "Excavator", "SkidSteer", "Dragline", "Trencher" ]
+}, {
+  "1651" : [ "DumpTruck", "Backhoe" ]
+}, {
+  "1652" : [ "Excavator", "Scraper" ]
+}, {
+  "1653" : [ "DumpTruck" ]
+}, {
+  "1654" : [ "Trencher", "Bulldozer", "Scraper", "Grader" ]
+}, {
+  "1656" : [ "Grader", "Crawler" ]
+}, {
+  "1657" : [ "Compactor" ]
+}, {
+  "1658" : [ "SkidSteer" ]
+}, {
+  "1659" : [ "DumpTruck", "Backhoe", "Excavator", "Dragline" ]
+}, {
+  "1660" : [ "Scraper" ]
+}, {
+  "1661" : [ "DumpTruck", "Excavator", "Bulldozer", "Scraper" ]
+}, {
+  "1662" : [ "Backhoe", "Compactor", "Excavator", "Trencher", "Scraper" ]
+}, {
+  "1664" : [ "Compactor", "Trencher", "Bulldozer", "Grader" ]
+}, {
+  "1665" : [ "Backhoe", "SkidSteer", "Bulldozer" ]
+}, {
+  "1666" : [ "Backhoe", "Crawler" ]
+}, {
+  "1667" : [ "Compactor", "Dragline", "Scraper", "Crawler" ]
+}, {
+  "1669" : [ "DumpTruck", "Backhoe", "SkidSteer", "Dragline", "Trencher" ]
+}, {
+  "1670" : [ "Excavator", "SkidSteer", "Scraper" ]
+}, {
+  "1671" : [ "Backhoe", "SkidSteer", "Bulldozer", "Crawler" ]
+}, {
+  "1672" : [ "Backhoe", "Compactor", "SkidSteer", "Bulldozer", "Trencher" ]
+}, {
+  "1673" : [ "Scraper", "Grader" ]
+}, {
+  "1674" : [ "Excavator" ]
+}, {
+  "1675" : [ "Backhoe", "Bulldozer" ]
+}, {
+  "1676" : [ "Excavator" ]
+}, {
+  "1677" : [ "Backhoe", "Excavator", "SkidSteer", "Dragline", "Bulldozer", "Scraper" ]
+}, {
+  "1678" : [ "Compactor", "Backhoe", "Dragline", "Scraper" ]
+}, {
+  "1679" : [ "Backhoe", "Excavator", "Bulldozer", "Grader" ]
+}, {
+  "1680" : [ "DumpTruck", "SkidSteer", "Dragline" ]
+}, {
+  "1681" : [ "Compactor", "Trencher" ]
+}, {
+  "1682" : [ "SkidSteer", "Trencher" ]
+}, {
+  "1683" : [ "Dragline", "Trencher", "Scraper", "Crawler" ]
+}, {
+  "1685" : [ "Excavator" ]
+}, {
+  "1686" : [ "DumpTruck", "SkidSteer", "Backhoe", "Dragline", "Bulldozer", "Trencher" ]
+}, {
+  "1689" : [ "Crawler" ]
+}, {
+  "1690" : [ "SkidSteer", "Scraper" ]
+}, {
+  "1691" : [ "SkidSteer", "Backhoe", "Dragline", "Trencher", "Scraper", "Grader" ]
+}, {
+  "1693" : [ "DumpTruck", "Dragline" ]
+}, {
+  "1694" : [ "Dragline", "Crawler" ]
+}, {
+  "1695" : [ "Compactor", "Backhoe", "Grader" ]
+}, {
+  "1696" : [ "DumpTruck", "Backhoe", "Scraper" ]
+}, {
+  "1697" : [ "Compactor", "Dragline", "Bulldozer" ]
+}, {
+  "1698" : [ "DumpTruck", "Dragline" ]
+}, {
+  "1700" : [ "DumpTruck", "SkidSteer", "Compactor", "Dragline", "Scraper" ]
+}, {
+  "1702" : [ "Compactor", "Excavator", "Dragline", "Scraper", "Grader", "Crawler" ]
+}, {
+  "1703" : [ "Backhoe", "Grader", "Crawler" ]
+}, {
+  "1704" : [ "DumpTruck", "Compactor", "Crawler" ]
+}, {
+  "1705" : [ "Compactor", "Grader" ]
+}, {
+  "1706" : [ "DumpTruck", "SkidSteer", "Trencher", "Scraper" ]
+}, {
+  "1707" : [ "Excavator", "Dragline" ]
+}, {
+  "1708" : [ "Compactor", "Bulldozer", "Scraper", "Crawler" ]
+}, {
+  "1709" : [ "DumpTruck", "SkidSteer", "Compactor", "Grader", "Crawler" ]
+}, {
+  "1710" : [ "SkidSteer", "Compactor", "Dragline", "Trencher", "Scraper", "Grader" ]
+}, {
+  "1711" : [ "Backhoe", "Bulldozer" ]
+}, {
+  "1712" : [ "Backhoe", "Dragline", "Trencher", "Grader", "Crawler" ]
+}, {
+  "1713" : [ "DumpTruck", "SkidSteer", "Scraper" ]
+}, {
+  "1714" : [ "Excavator", "Trencher" ]
+}, {
+  "1716" : [ "Bulldozer" ]
+}, {
+  "1717" : [ "Grader" ]
+}, {
+  "1718" : [ "Backhoe", "Dragline" ]
+}, {
+  "1720" : [ "Compactor", "Backhoe", "Grader" ]
+}, {
+  "1721" : [ "Excavator", "Bulldozer" ]
+}, {
+  "1723" : [ "DumpTruck", "Compactor" ]
+}, {
+  "1724" : [ "SkidSteer", "Dragline", "Scraper" ]
+}, {
+  "1726" : [ "SkidSteer", "Crawler" ]
+}, {
+  "1727" : [ "Dragline", "Trencher" ]
+}, {
+  "1728" : [ "Compactor", "Bulldozer" ]
+}, {
+  "1729" : [ "Trencher", "Grader" ]
+}, {
+  "1730" : [ "DumpTruck", "SkidSteer", "Trencher", "Crawler" ]
+}, {
+  "1732" : [ "DumpTruck", "SkidSteer", "Trencher" ]
+}, {
+  "1733" : [ "Excavator", "Trencher" ]
+}, {
+  "1734" : [ "Dragline", "Bulldozer", "Scraper" ]
+}, {
+  "1735" : [ "Trencher", "Bulldozer" ]
+}, {
+  "1736" : [ "DumpTruck", "Excavator", "Bulldozer", "Scraper", "Grader" ]
+}, {
+  "1737" : [ "Trencher", "Grader" ]
+}, {
+  "1738" : [ "Backhoe", "Bulldozer", "Scraper" ]
+}, {
+  "1739" : [ "Excavator", "Backhoe", "SkidSteer", "Compactor", "Dragline", "Grader" ]
+}, {
+  "1741" : [ "DumpTruck", "Backhoe", "Dragline" ]
+}, {
+  "1742" : [ "DumpTruck", "Dragline", "Scraper" ]
+}, {
+  "1743" : [ "DumpTruck", "Dragline", "Bulldozer", "Crawler" ]
+}, {
+  "1744" : [ "Compactor", "Grader", "Crawler" ]
+}, {
+  "1745" : [ "Trencher" ]
+}, {
+  "1746" : [ "Excavator", "Bulldozer", "Crawler" ]
+}, {
+  "1748" : [ "DumpTruck", "Backhoe", "Compactor", "Excavator", "Crawler" ]
+}, {
+  "1749" : [ "Excavator", "Trencher" ]
+}, {
+  "1750" : [ "DumpTruck" ]
+}, {
+  "1751" : [ "DumpTruck", "Dragline", "Bulldozer", "Trencher", "Grader" ]
+}, {
+  "1753" : [ "Dragline" ]
+}, {
+  "1754" : [ "Compactor", "SkidSteer", "Dragline", "Scraper", "Crawler" ]
+}, {
+  "1755" : [ "Trencher", "Scraper" ]
+}, {
+  "1756" : [ "DumpTruck", "Excavator", "Bulldozer", "Scraper" ]
+}, {
+  "1757" : [ "Backhoe" ]
+}, {
+  "1759" : [ "Crawler" ]
+}, {
+  "1760" : [ "DumpTruck", "SkidSteer" ]
+}, {
+  "1761" : [ "Backhoe", "Crawler" ]
+}, {
+  "1762" : [ "Backhoe", "Bulldozer", "Trencher" ]
+}, {
+  "1763" : [ "DumpTruck", "Excavator", "Scraper" ]
+}, {
+  "1764" : [ "Dragline" ]
+}, {
+  "1766" : [ "DumpTruck", "Compactor", "Trencher", "Scraper", "Crawler" ]
+}, {
+  "1767" : [ "DumpTruck", "Excavator", "Bulldozer", "Grader" ]
+}, {
+  "1768" : [ "DumpTruck", "Compactor", "Bulldozer", "Scraper" ]
+}, {
+  "1770" : [ "DumpTruck", "Trencher" ]
+}, {
+  "1771" : [ "Compactor", "Dragline", "Scraper" ]
+}, {
+  "1772" : [ "DumpTruck", "Excavator", "SkidSteer", "Compactor", "Dragline", "Bulldozer" ]
+}, {
+  "1773" : [ "Bulldozer" ]
+}, {
+  "1774" : [ "Excavator", "Backhoe", "Dragline", "Trencher" ]
+}, {
+  "1775" : [ "Backhoe", "Bulldozer", "Scraper" ]
+}, {
+  "1776" : [ "Backhoe", "Bulldozer" ]
+}, {
+  "1777" : [ "Excavator", "Grader" ]
+}, {
+  "1778" : [ "Backhoe", "Excavator", "Bulldozer", "Trencher" ]
+}, {
+  "1779" : [ "SkidSteer", "Excavator", "Dragline" ]
+}, {
+  "1780" : [ "DumpTruck", "Backhoe" ]
+}, {
+  "1781" : [ "DumpTruck", "Compactor", "Dragline", "Grader" ]
+}, {
+  "1782" : [ "Backhoe", "Compactor", "SkidSteer", "Trencher" ]
+}, {
+  "1783" : [ "Excavator", "Trencher" ]
+}, {
+  "1784" : [ "SkidSteer", "Compactor", "Bulldozer", "Scraper", "Crawler" ]
+}, {
+  "1785" : [ "Grader" ]
+}, {
+  "1786" : [ "DumpTruck", "SkidSteer", "Compactor" ]
+}, {
+  "1787" : [ "Excavator", "Backhoe", "Trencher", "Grader", "Scraper" ]
+}, {
+  "1788" : [ "Backhoe", "Dragline", "Trencher" ]
+}, {
+  "1789" : [ "Excavator", "Trencher" ]
+}, {
+  "1791" : [ "SkidSteer", "Crawler" ]
+}, {
+  "1792" : [ "SkidSteer" ]
+}, {
+  "1793" : [ "DumpTruck", "SkidSteer", "Bulldozer", "Scraper" ]
+}, {
+  "1794" : [ "DumpTruck", "Backhoe", "Trencher", "Grader" ]
+}, {
+  "1795" : [ "Dragline" ]
+}, {
+  "1796" : [ "DumpTruck", "SkidSteer", "Bulldozer", "Crawler" ]
+}, {
+  "1797" : [ "Compactor", "Dragline", "Trencher", "Scraper" ]
+}, {
+  "1799" : [ "DumpTruck", "Excavator", "Trencher", "Grader" ]
+}, {
+  "1801" : [ "Bulldozer" ]
+}, {
+  "1802" : [ "Bulldozer" ]
+}, {
+  "1803" : [ "Excavator", "Dragline", "Grader" ]
+}, {
+  "1804" : [ "DumpTruck", "Backhoe", "Grader" ]
+}, {
+  "1805" : [ "Excavator" ]
+}, {
+  "1806" : [ "Bulldozer" ]
+}, {
+  "1807" : [ "Backhoe", "Dragline" ]
+}, {
+  "1808" : [ "Bulldozer", "Scraper" ]
+}, {
+  "1809" : [ "Backhoe" ]
+}, {
+  "1810" : [ "SkidSteer", "Grader" ]
+}, {
+  "1811" : [ "Compactor", "Bulldozer", "Grader", "Scraper" ]
+}, {
+  "1812" : [ "DumpTruck", "SkidSteer", "Trencher", "Scraper", "Grader", "Crawler" ]
+}, {
+  "1813" : [ "Compactor", "Backhoe", "Bulldozer", "Crawler" ]
+}, {
+  "1814" : [ "Compactor", "Dragline", "Grader", "Crawler" ]
+}, {
+  "1815" : [ "Dragline", "Trencher" ]
+}, {
+  "1817" : [ "Excavator", "Bulldozer" ]
+}, {
+  "1818" : [ "Compactor", "SkidSteer", "Backhoe", "Bulldozer" ]
+}, {
+  "1819" : [ "Excavator" ]
+}, {
+  "1820" : [ "DumpTruck" ]
+}, {
+  "1823" : [ "DumpTruck", "SkidSteer", "Bulldozer" ]
+}, {
+  "1824" : [ "Compactor", "Bulldozer", "Trencher", "Grader" ]
+}, {
+  "1825" : [ "Bulldozer", "Crawler" ]
+}, {
+  "1826" : [ "Compactor", "Trencher" ]
+}, {
+  "1827" : [ "DumpTruck", "SkidSteer", "Trencher" ]
+}, {
+  "1828" : [ "Grader" ]
+}, {
+  "1829" : [ "Backhoe", "Scraper", "Grader", "Crawler" ]
+}, {
+  "1830" : [ "DumpTruck", "Backhoe", "Dragline", "Grader" ]
+}, {
+  "1831" : [ "Compactor", "Dragline", "Scraper" ]
+}, {
+  "1832" : [ "Scraper" ]
+}, {
+  "1833" : [ "DumpTruck", "Compactor", "Crawler" ]
+}, {
+  "1834" : [ "Backhoe", "Excavator", "Compactor" ]
+}, {
+  "1835" : [ "Backhoe", "Bulldozer", "Trencher", "Crawler" ]
+}, {
+  "1836" : [ "DumpTruck", "Grader" ]
+}, {
+  "1837" : [ "DumpTruck", "Grader" ]
+}, {
+  "1838" : [ "DumpTruck", "Backhoe", "Crawler" ]
+}, {
+  "1839" : [ "Compactor", "Backhoe" ]
+}, {
+  "1840" : [ "Excavator", "Grader" ]
+}, {
+  "1842" : [ "Backhoe", "Scraper" ]
+}, {
+  "1843" : [ "Scraper" ]
+}, {
+  "1844" : [ "DumpTruck", "Dragline", "Bulldozer" ]
+}, {
+  "1845" : [ "Crawler" ]
+}, {
+  "1846" : [ "Dragline", "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1847" : [ "Scraper" ]
+}, {
+  "1850" : [ "Crawler" ]
+}, {
+  "1851" : [ "DumpTruck", "Compactor", "SkidSteer", "Trencher", "Scraper" ]
+}, {
+  "1852" : [ "DumpTruck", "Excavator" ]
+}, {
+  "1853" : [ "DumpTruck", "Compactor", "Trencher", "Scraper" ]
+}, {
+  "1854" : [ "Compactor", "Excavator", "Scraper" ]
+}, {
+  "1855" : [ "DumpTruck", "SkidSteer", "Bulldozer", "Trencher" ]
+}, {
+  "1856" : [ "Compactor", "Bulldozer", "Grader" ]
+}, {
+  "1857" : [ "SkidSteer", "Backhoe", "Dragline", "Bulldozer", "Trencher" ]
+}, {
+  "1858" : [ "Bulldozer" ]
+}, {
+  "1859" : [ "DumpTruck", "Compactor", "Excavator", "Crawler" ]
+}, {
+  "1860" : [ "Excavator", "Backhoe", "Compactor", "Dragline", "Grader" ]
+}, {
+  "1861" : [ "DumpTruck", "Dragline", "Grader" ]
+}, {
+  "1863" : [ "DumpTruck", "Dragline", "Bulldozer", "Scraper", "Crawler" ]
+}, {
+  "1864" : [ "Excavator" ]
+}, {
+  "1865" : [ "Dragline" ]
+}, {
+  "1866" : [ "DumpTruck", "SkidSteer", "Bulldozer", "Scraper" ]
+}, {
+  "1867" : [ "Dragline", "Trencher" ]
+}, {
+  "1868" : [ "SkidSteer" ]
+}, {
+  "1869" : [ "Compactor", "SkidSteer", "Bulldozer" ]
+}, {
+  "1870" : [ "DumpTruck", "SkidSteer", "Compactor", "Trencher", "Crawler" ]
+}, {
+  "1871" : [ "SkidSteer", "Compactor", "Trencher", "Crawler" ]
+}, {
+  "1872" : [ "DumpTruck", "SkidSteer", "Trencher", "Scraper" ]
+}, {
+  "1873" : [ "Backhoe" ]
+}, {
+  "1874" : [ "SkidSteer", "Dragline", "Grader", "Scraper" ]
+}, {
+  "1875" : [ "Compactor", "Crawler" ]
+}, {
+  "1876" : [ "Excavator", "Dragline", "Scraper" ]
+}, {
+  "1877" : [ "Compactor", "Excavator", "Trencher", "Grader" ]
+}, {
+  "1878" : [ "Backhoe", "Bulldozer", "Scraper" ]
+}, {
+  "1879" : [ "DumpTruck", "SkidSteer", "Excavator", "Trencher" ]
+}, {
+  "1880" : [ "Excavator", "Dragline", "Bulldozer", "Scraper", "Grader" ]
+}, {
+  "1881" : [ "Scraper" ]
+}, {
+  "1882" : [ "SkidSteer", "Grader" ]
+}, {
+  "1883" : [ "DumpTruck", "Backhoe", "SkidSteer" ]
+}, {
+  "1884" : [ "DumpTruck", "SkidSteer", "Scraper", "Crawler" ]
+}, {
+  "1885" : [ "DumpTruck", "Compactor", "Dragline", "Scraper" ]
+}, {
+  "1886" : [ "Excavator", "Scraper" ]
+}, {
+  "1887" : [ "Compactor" ]
+}, {
+  "1888" : [ "Excavator", "Backhoe", "SkidSteer", "Grader" ]
+}, {
+  "1889" : [ "DumpTruck", "Backhoe", "Excavator" ]
+}, {
+  "1890" : [ "Backhoe", "Excavator", "Bulldozer", "Grader" ]
+}, {
+  "1891" : [ "Scraper" ]
+}, {
+  "1892" : [ "DumpTruck", "SkidSteer", "Compactor" ]
+}, {
+  "1893" : [ "DumpTruck", "SkidSteer", "Backhoe", "Dragline", "Grader" ]
+}, {
+  "1894" : [ "Backhoe", "Compactor", "Dragline", "Bulldozer", "Grader" ]
+}, {
+  "1895" : [ "DumpTruck", "SkidSteer", "Grader", "Crawler" ]
+}, {
+  "1896" : [ "Grader", "Crawler" ]
+}, {
+  "1897" : [ "DumpTruck", "Compactor", "Dragline", "Grader" ]
+}, {
+  "1898" : [ "Compactor", "Scraper", "Grader" ]
+}, {
+  "1899" : [ "DumpTruck", "Dragline", "Bulldozer", "Grader" ]
+}, {
+  "1900" : [ "Compactor", "Excavator", "Trencher", "Crawler" ]
+}, {
+  "1901" : [ "Excavator", "Trencher" ]
+}, {
+  "1902" : [ "Trencher", "Grader" ]
+}, {
+  "1905" : [ "Bulldozer" ]
+}, {
+  "1906" : [ "Trencher", "Bulldozer", "Crawler" ]
+}, {
+  "1908" : [ "Dragline" ]
+}, {
+  "1909" : [ "DumpTruck", "Excavator", "Trencher", "Grader" ]
+}, {
+  "1910" : [ "Excavator", "Compactor", "Bulldozer" ]
+}, {
+  "1911" : [ "Backhoe", "Bulldozer" ]
+}, {
+  "1912" : [ "Compactor", "Grader" ]
+}, {
+  "1913" : [ "Compactor", "SkidSteer", "Grader", "Scraper" ]
+}, {
+  "1915" : [ "Backhoe" ]
+}, {
+  "1917" : [ "DumpTruck" ]
+}, {
+  "1918" : [ "Bulldozer", "Crawler" ]
+}, {
+  "1919" : [ "DumpTruck", "SkidSteer", "Backhoe", "Dragline", "Scraper" ]
+}, {
+  "1920" : [ "Compactor" ]
+}, {
+  "1921" : [ "DumpTruck" ]
+}, {
+  "1922" : [ "Compactor" ]
+}, {
+  "1923" : [ "DumpTruck", "SkidSteer", "Scraper" ]
+}, {
+  "1924" : [ "Excavator", "Compactor", "Grader" ]
+}, {
+  "1925" : [ "DumpTruck", "Excavator", "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1926" : [ "Backhoe", "Dragline", "Crawler" ]
+}, {
+  "1927" : [ "Scraper" ]
+}, {
+  "1928" : [ "Excavator", "Backhoe", "SkidSteer", "Bulldozer", "Grader" ]
+}, {
+  "1929" : [ "Excavator", "Dragline", "Bulldozer", "Grader" ]
+}, {
+  "1930" : [ "DumpTruck", "Compactor", "Bulldozer", "Crawler" ]
+}, {
+  "1931" : [ "Excavator", "SkidSteer", "Compactor", "Trencher", "Grader" ]
+}, {
+  "1933" : [ "Compactor", "SkidSteer", "Excavator" ]
+}, {
+  "1934" : [ "SkidSteer", "Backhoe", "Dragline", "Bulldozer", "Grader" ]
+}, {
+  "1935" : [ "SkidSteer", "Compactor", "Backhoe", "Grader", "Scraper" ]
+}, {
+  "1936" : [ "Bulldozer" ]
+}, {
+  "1937" : [ "DumpTruck", "Compactor", "Dragline", "Crawler" ]
+}, {
+  "1938" : [ "DumpTruck", "Backhoe", "Trencher", "Scraper" ]
+}, {
+  "1939" : [ "Compactor", "Dragline", "Bulldozer", "Grader", "Crawler" ]
+}, {
+  "1940" : [ "Grader", "Crawler" ]
+}, {
+  "1942" : [ "Compactor", "Grader", "Crawler" ]
+}, {
+  "1943" : [ "Trencher", "Scraper", "Crawler" ]
+}, {
+  "1944" : [ "Compactor", "Scraper" ]
+}, {
+  "1946" : [ "Excavator", "Trencher", "Grader" ]
+}, {
+  "1947" : [ "SkidSteer", "Dragline", "Scraper" ]
+}, {
+  "1948" : [ "Crawler" ]
+}, {
+  "1949" : [ "Crawler" ]
+}, {
+  "1951" : [ "Scraper" ]
+}, {
+  "1952" : [ "Excavator", "Scraper" ]
+}, {
+  "1953" : [ "Backhoe", "Compactor", "Dragline" ]
+}, {
+  "1955" : [ "SkidSteer", "Bulldozer", "Crawler" ]
+}, {
+  "1956" : [ "Compactor", "Trencher", "Scraper" ]
+}, {
+  "1957" : [ "Dragline", "Trencher" ]
+}, {
+  "1958" : [ "SkidSteer" ]
+}, {
+  "1959" : [ "Excavator", "Compactor", "Bulldozer", "Trencher", "Grader", "Crawler" ]
+}, {
+  "1960" : [ "Bulldozer", "Trencher", "Grader" ]
+}, {
+  "1962" : [ "DumpTruck", "SkidSteer", "Dragline", "Trencher", "Grader" ]
+}, {
+  "1963" : [ "Compactor", "SkidSteer", "Grader", "Scraper" ]
+}, {
+  "1964" : [ "DumpTruck", "SkidSteer", "Backhoe", "Excavator", "Compactor", "Crawler" ]
+}, {
+  "1965" : [ "DumpTruck", "Excavator", "Bulldozer", "Crawler" ]
+}, {
+  "1966" : [ "DumpTruck", "Bulldozer" ]
+}, {
+  "1967" : [ "Bulldozer" ]
+}, {
+  "1968" : [ "SkidSteer", "Bulldozer" ]
+}, {
+  "1970" : [ "Backhoe" ]
+}, {
+  "1972" : [ "SkidSteer", "Trencher" ]
+}, {
+  "1973" : [ "Backhoe", "Trencher" ]
+}, {
+  "1975" : [ "DumpTruck", "Backhoe", "Crawler" ]
+}, {
+  "1976" : [ "DumpTruck", "Bulldozer", "Scraper" ]
+}, {
+  "1977" : [ "SkidSteer", "Bulldozer", "Scraper" ]
+}, {
+  "1978" : [ "Compactor", "Backhoe", "Bulldozer", "Trencher" ]
+}, {
+  "1979" : [ "Compactor", "Excavator", "Backhoe", "Bulldozer", "Scraper", "Crawler" ]
+}, {
+  "1980" : [ "DumpTruck", "Excavator", "Dragline", "Bulldozer", "Grader" ]
+}, {
+  "1982" : [ "Compactor", "Dragline", "Bulldozer", "Scraper" ]
+}, {
+  "1983" : [ "Grader" ]
+}, {
+  "1984" : [ "DumpTruck", "Excavator", "Backhoe", "Trencher", "Scraper" ]
+}, {
+  "1986" : [ "SkidSteer", "Bulldozer" ]
+}, {
+  "1987" : [ "Backhoe", "Dragline", "Grader" ]
+}, {
+  "1988" : [ "Backhoe", "Trencher", "Scraper", "Crawler" ]
+}, {
+  "1990" : [ "Backhoe" ]
+}, {
+  "1991" : [ "Backhoe", "Scraper" ]
+}, {
+  "1992" : [ "Trencher" ]
+}, {
+  "1993" : [ "Grader" ]
+}, {
+  "1994" : [ "DumpTruck", "Backhoe", "Dragline", "Bulldozer" ]
+}, {
+  "1995" : [ "SkidSteer", "Crawler" ]
+}, {
+  "1996" : [ "DumpTruck", "SkidSteer", "Bulldozer" ]
+}, {
+  "1997" : [ "Excavator", "Backhoe", "Compactor", "Dragline", "Bulldozer" ]
+}, {
+  "1999" : [ "Excavator", "Scraper", "Grader", "Crawler" ]
+} ]
